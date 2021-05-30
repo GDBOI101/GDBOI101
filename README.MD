@@ -19,8 +19,8 @@ Twitter: https://twitter.com/GD_Studios101
 
 ### About me
 
-- I am 13
+I am 13
 <br>
-- I like Fortnite and Coding
+I like Fortnite and Coding
 <br>
-- I am NOT single ❤️ 
+I am NOT single ❤️ 
