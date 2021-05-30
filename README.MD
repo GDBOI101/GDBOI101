@@ -8,10 +8,10 @@
 
 ### Connect:
 
-[Cloud Website]: https://cloudfn.dev
-[Cloud Discord]: https://discord.gg/MfXNpTg4EV
-[Youtube]: https://www.youtube.com/channel/UCbI0is0OOW7u1Zc0_9-Mpkg
-[Twitter]: https://twitter.com/GD_Studios101
+Cloud Website: https://cloudfn.dev
+Cloud Discord: https://discord.gg/MfXNpTg4EV
+Youtube: https://www.youtube.com/channel/UCbI0is0OOW7u1Zc0_9-Mpkg
+Twitter: https://twitter.com/GD_Studios101
 
 ### About me
 
