@@ -9,12 +9,18 @@
 ### Connect:
 
 Cloud Website: https://cloudfn.dev
+<br>
 Cloud Discord: https://discord.gg/MfXNpTg4EV
+<br>
 Youtube: https://www.youtube.com/channel/UCbI0is0OOW7u1Zc0_9-Mpkg
+<br>
 Twitter: https://twitter.com/GD_Studios101
+<br>
 
 ### About me
 
 - I am 13
+- <br>
 - I like Fortnite and Coding
+- <br>
 - I am NOT single ❤️ 
