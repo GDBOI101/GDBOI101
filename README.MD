@@ -1,7 +1,5 @@
 ### Hello, I'm GD 👋
 
-[![Website](https://cloudfn.dev)
-
 ## I'm a Developer!
 
 - 🔭 im working on a Fortnite Private Server called *CloudFN*
