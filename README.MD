@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C++
 - ⚡ I know C#, Node.JS, and Javascript
 <br>
-https://github-readme-stats.vercel.app/api?username=GDBOI101&theme=dark&show_icons=true
+![ghstats](https://github-readme-stats.vercel.app/api?username=GDBOI101&theme=dark&show_icons=true)
 
 ### Connect:
 
