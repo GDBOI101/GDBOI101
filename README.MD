@@ -4,7 +4,7 @@
 
 - 🔭 im working on a Fortnite Private Server called *CloudFN*
 - 🌱 I’m currently learning C++
-- ⚡ I know C#, Node.JS, and Javascript
+- ⚡ I know C#, Node.JS, and Roblox Lua
 
 ![](https://cdn.discordapp.com/attachments/835302046592270446/842765465575096340/Free-Cloud-Wallpapers.jpg?width=50&height=50)
 
