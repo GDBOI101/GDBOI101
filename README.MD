@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning C++
 - ⚡ I know C#, Node.JS, and Javascript
 <br>
-<br>
 [Cloud-V2](https://github.com/GDBOI101/Cloud-V2)
 <br>
 ![ghstats](https://github-readme-stats.vercel.app/api?username=GDBOI101&theme=dark&show_icons=true)
