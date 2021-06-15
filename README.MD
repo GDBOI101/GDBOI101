@@ -6,13 +6,12 @@
 - 🌱 I’m currently learning C++
 - ⚡ I know C#, Node.JS, and Javascript
 
-[Cloud-V2](https://github.com/GDBOI101/Cloud-V2)
-<br>
 ![](https://cdn.discordapp.com/attachments/835302046592270446/842765465575096340/Free-Cloud-Wallpapers.jpg?width=50&height=50)
 
 ![ghstats](https://github-readme-stats.vercel.app/api?username=GDBOI101&theme=dark&show_icons=true)
-### Connect:
-
+#### Links:
+[Cloud-V2](https://github.com/GDBOI101/Cloud-V2)
+<br>
 [Cloud Website](https://cloudfn.dev)
 <br>
 [Cloud Discord](https://discord.gg/MfXNpTg4EV)
