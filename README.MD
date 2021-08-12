@@ -10,12 +10,6 @@
 
 ![ghstats](https://github-readme-stats.vercel.app/api?username=GDBOI101&theme=dark&show_icons=true)
 ## Links:
-[Cloud-V2](https://github.com/GDBOI101/Cloud-V2)
-<br>
-[Cloud Website](https://cloudfn.dev)
-<br>
-[Cloud Discord](https://discord.gg/MfXNpTg4EV)
-<br>
 [Youtube](https://www.youtube.com/channel/UCbI0is0OOW7u1Zc0_9-Mpkg)
 <br>
 [Twitter](https://twitter.com/GD_Studios101)
