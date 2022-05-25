@@ -11,6 +11,8 @@ AGS (Athena Game Server)
 ### Previous Fortnite Projects
 [Cloud (V1 & V2)](https://github.com/GDBOI101/Cloud-V2)
 <br>
+[Erbium (V1 & V2)](https://github.com/ErbiumDev/)
+<br>
 Rocket (V1, V2, & V3)
 <br>
 Silicon (CreateFN)
