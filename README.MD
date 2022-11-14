@@ -3,9 +3,9 @@ Hi Im GD, I like Modding Fortnite and Shellshockers!
 ## Fortnite
 Im a not so well known Fortnite Modder and Developer.
 ### Current Fortnite Projects
-[Radium](https://github.com/ErbiumDev/Radium)
+AGS (Athena Game Server)
 <br>
-[Project Reboot](https://discord.gg/reboot)
+[Project Reboot](https://github.com/Milxnor/Universal-Walking-Simulator)
 ### Previous Fortnite Projects
 [Cloud (V1 & V2)](https://github.com/GDBOI101/Cloud-V2)
 <br>
