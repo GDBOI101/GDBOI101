@@ -1,12 +1,22 @@
 # About Me
-Hi Im GD, I like Modding Fortnite and Shellshockers!
-## Fortnite
-Im a not so well known Fortnite Modder and Developer.
-### Current Fortnite Projects
-AGS (Athena Game Server)
+Hi Im GD, a 15 Year Old C++ Developer.
 <br>
-[Project Reboot](https://github.com/Milxnor/Universal-Walking-Simulator)
+5ft 11 / Can most likely dunk on you ;)
+<br>
+Currently Taken ❤
+<br>
+I like Modding Fortnite, Playing Basketball, and Listening to Eminem
+## Contact
+Discord: GD#2022
+<br>
+Twitter: @GDBOI101
+<br>
+Fortnite Leaks Twitter: @GD_Leaks
+### Current Fortnite Projects
+Wayback - 1.9.1 Gameserver
 ### Previous Fortnite Projects
+[Project Reboot](https://github.com/Milxnor/Universal-Walking-Simulator)
+<br>
 [Cloud (V1 & V2)](https://github.com/GDBOI101/Cloud-V2)
 <br>
 [Erbium (V1 & V2)](https://github.com/ErbiumDev/)
@@ -14,10 +24,6 @@ AGS (Athena Game Server)
 Rocket (V1, V2, & V3)
 <br>
 Silicon (CreateFN)
-## ShellShockers
-[SS-Modded](https://ss-modded.herokuapp.com)
-<br>
-[SS-GS](https://github.com/GDBOI101/SS-GS)
 ## Other Projects
 Inferno Battle Royale (Roblox)
 <br>
@@ -33,5 +39,7 @@ JavaScript - Nearly Mastered
 C++ - Intermediate
 <br>
 C# - Intermediate
+<br>
+Python - Beginner
 ## Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GDBOI101)](https://github.com/anuraghazra/github-readme-stats)
