@@ -3,8 +3,6 @@ Hi Im GD, a 15 Year Old C++ Developer.
 <br>
 5ft 11 / Can most likely dunk on you ;)
 <br>
-Currently Taken ❤
-<br>
 I like Modding Fortnite, Playing Basketball, and Listening to Eminem
 ## Contact
 Discord: GD#2022
