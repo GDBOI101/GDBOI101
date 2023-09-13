@@ -5,7 +5,7 @@ Hi Im GD, a 15 Year Old C++ Developer.
 <br>
 I like Modding Fortnite, Playing Basketball, and Listening to Eminem
 ## Contact
-Discord: GD#2022
+Discord: the1andonly_tjc
 <br>
 Twitter: @GDBOI101
 <br>
@@ -30,14 +30,12 @@ Epic Royale (Roblox)
 Bunny AR (Unity)
 ## Experience
 ### Languages
-Lua - Nearly Mastered
+Lua - Fluent
 <br>
-JavaScript - Nearly Mastered
+JavaScript - Fluent
 <br>
 C++ - Intermediate
 <br>
 C# - Intermediate
-<br>
-Python - Beginner
 ## Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GDBOI101)](https://github.com/anuraghazra/github-readme-stats)
