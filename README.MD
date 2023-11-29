@@ -1,9 +1,11 @@
 # About Me
-Hi Im GD, a 15 Year Old C++ Developer.
+Hi Im GD/TJ, a 16 Year Old C++ Developer. 🤓
 <br>
-5ft 11 / Can most likely dunk on you ;)
+6ft / Can most likely dunk on you ;) 🏀
 <br>
-I like Modding Fortnite, Playing Basketball, and Listening to Eminem
+I like Modding Fortnite, Playing Football, and Listening to Eminem. ⌨️🏈🎵
+<br>
+McDonalds 🍔🍟 and Eminem 👩🍝 Enthusiast 
 ## Contact
 Discord: the1andonly_tjc
 <br>
@@ -11,7 +13,9 @@ Twitter: @GDBOI101
 <br>
 Fortnite Leaks Twitter: @GD_Leaks
 ### Current Fortnite Projects
-Wayback - 1.9.1 Gameserver
+Carbon - Universal Fortnite Private Server
+<br>
+[Wayback](https://github.com/GDBOI101/WaybackGS) - 1.9.1 Gameserver
 ### Previous Fortnite Projects
 [Project Reboot](https://github.com/Milxnor/Universal-Walking-Simulator)
 <br>
@@ -22,10 +26,12 @@ Wayback - 1.9.1 Gameserver
 Rocket (V1, V2, & V3)
 <br>
 Silicon (CreateFN)
+<br>
+EonFN
 ## Other Projects
 Inferno Battle Royale (Roblox)
 <br>
-Epic Royale (Roblox)
+SS-GS (Shell Shockers)
 <br>
 Bunny AR (Unity)
 ## Experience
