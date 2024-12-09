@@ -1,5 +1,5 @@
 # About Me
-Hi Im GD/TJ, a 16 Year Old C++ Developer. 🤓
+Hi Im GD/TJ, a 17 Year Old C++ Developer. 🤓
 <br>
 I like Modding Fortnite, Playing Football, and Listening to Eminem. ⌨️🏈🎵
 <br>
@@ -40,6 +40,6 @@ JavaScript - Fluent
 <br>
 C++ - Fluent
 <br>
-C# - Intermediate
+C# - Fluent
 ## Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GDBOI101)](https://github.com/anuraghazra/github-readme-stats)
