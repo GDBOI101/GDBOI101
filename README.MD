@@ -1,9 +1,5 @@
 # About Me
-Hi Im GD/TJ, a 17 Year Old C++ Developer. 🤓
-<br>
-I like Modding Fortnite, Playing Football, and Listening to Eminem. ⌨️🏈🎵
-<br>
-McDonalds 🍔🍟 and Eminem 👩🍝 Enthusiast 
+Hi Im GD/TJ, a 19 Year Old C++ Developer. 🤓
 ## Contact
 Discord: the1andonly_tjc
 <br>
